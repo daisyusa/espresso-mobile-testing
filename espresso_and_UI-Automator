@@ -1,0 +1,13 @@
+#Android Automated UI Test Types
+
+
+We have two types of Android automated UI tests.
+
+UI tests for a single app verify that the target app behaves as expected when a user performs a specific action or stops an activity. 
+It allows you to check that the target app returned the correct UI output and response to user interactions in the app's activities. 
+UI testing frameworks like Espresso allow you to programmatically simulate user actions and to test complex, intra-app user interactions.
+
+The second type is UI tests for multiple apps. This type of test verifies the correct behavior of interactions between different user apps
+or between user apps and system apps. For example, you might want to test that your camera app shares images correctly with a third party 
+social media application or with a default Android photo application. UI testing frameworks that support adjacent app interactions such as 
+UI Automator allow you to test such scenarios. Espresso supports writing test scripts in Java and Kotlin.
