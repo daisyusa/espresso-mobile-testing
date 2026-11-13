@@ -1,0 +1,36 @@
+# Tutorial
+
+https://testautomationu.applitools.com/espresso-mobile-testing-tutorial/
+
+# Course Content
+
+
+Our course contents will include the following topics:
+
+Introduction to Espresso, its features and its various benefits
+
+How to set up Espresso and prepare our environment
+
+Our first test script using Espresso and Java
+
+How to inspect and interact with different elements such as text views, buttons, drawers, and more
+
+How to test a web view with Espresso
+
+How to handle application synchronization with Espresso and idling resources
+
+How do we use validation and assertions with Espresso
+
+How do we create test suites with annotations and run our classes
+
+How are Espresso tests run
+
+The screen object button, similar to a page object button but for mobile applications. It's a screen, not a page in Espresso UI tests
+
+Implementing Behavior-Driven Development (BDD) with Espresso and Cucumber for Android by adding feature files, step definitions, and runner
+
+How to add visual validation with Applitools and Espresso
+
+Running Espresso cloud testing with Firebase Test Lab from Google Cloud
+
+Running Espresso test scripts with GitHub Action as a continuous integration on every build request or a nightly build
