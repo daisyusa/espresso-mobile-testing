@@ -1,0 +1,17 @@
+# Tutorial
+
+https://testautomationu.applitools.com/espresso-mobile-testing-tutorial/
+
+# What is Espresso?
+
+Espresso is a native Android testing framework for writing reliable UI tests. 
+
+Google released the Espresso framework in October 2013 and, as of release version 2.0.
+
+Espresso is part of the Android Support Repository. One of the important features of Espresso is that it automatically synchronizes your test actions
+
+with the user interface of your application. The framework also ensures that your activity is started before the test runs. It can also force a test to 
+
+wait until all observer background activities have finished, which is sometimes a problem with other testing frameworks.
+
+
